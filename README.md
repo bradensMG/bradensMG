@@ -1,10 +1,9 @@
-# Hi
+# Hi!
 
 ## About me
-<p>I'm Braden, and I like making games with LÖVE</p>
+<p>I'm Braden, and I like making games with LÖVE. I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill</p>
 - My dominant language is Lua, but I hope to get into software development with Java, Javascript, and Python </br>
-- I like making music and art </br> </br>
-<p>I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill</p>
+- I like making music and art </br>
 
 ## Projects
 I'm not working on a lot right now, but here are some I'm publicly working on: </br>
