@@ -1,2 +1,13 @@
-# hi
-<p>i'm braden, and i like making games with love2d<br>i like making music and programming<br>i'm not a versatile programmer, only knowing lua for love2d and python for very basic software development, but i'm constantly learning so i hope to get to a point where programming is my most dominant skill</p>
+# Hi
+## About me
+<p>I'm Braden, and I like making games with LÖVE</p>
+- My dominant language is Lua, but I hope to get into software development with Java, Javascript, and Python </br>
+- I like making music and art </br>
+<p>I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill</p>
+## Projects
+<p>I'm not working on too many as of now, but here are some I'm working on:</p>
+[DESOLATION](https://gamejolt.com/games/desonee/907634?feed_last_id=%7B%22ver%22:%221%22,%22pos%22:%221719727571.368%22%7D) -- a fangame by sulfuri <br>
+[UNDERLÖVE](https://github.com/bradensMG/underlove) -- an UNDERTALE battle framework developed by me
+## Social links
+[Bluesky](https://bradensmg.bsky.social) -- I post stuff about my programming projects on here </br>
+[YouTube](https://youtube.com/@bradensmediocregames) -- I post animations and music on here
