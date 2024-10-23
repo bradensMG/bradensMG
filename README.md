@@ -7,7 +7,7 @@
 <p>I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill</p>
 
 ## Projects
-I'm not working on too many as of now, but here are some I'm working on: </br>
+I'm not working on a lot right now, but here are some I'm publicly working on: </br>
 [DESOLATION](https://gamejolt.com/games/desonee/907634?feed_last_id=%7B%22ver%22:%221%22,%22pos%22:%221719727571.368%22%7D) -- a fangame by sulfuri <br>
 [UNDERLÖVE](https://github.com/bradensMG/underlove) -- an UNDERTALE battle framework developed by me
 
