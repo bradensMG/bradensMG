@@ -1,4 +1,4 @@
-# Hi!
+# Hi! ![Animated icon](costume1.gif)
 
 ## About me
 I'm Braden, and I like making games with LÖVE. I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill </br>
