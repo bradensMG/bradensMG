@@ -7,9 +7,10 @@
 
 ## Projects
 I'm not working on a lot right now, but here are some I'm publicly working on: </br>
-[DESOLATION](https://gamejolt.com/games/desonee/907634?feed_last_id=%7B%22ver%22:%221%22,%22pos%22:%221719727571.368%22%7D) -- a fangame by sulfuri <br>
-[UNDERLÖVE](https://github.com/bradensMG/underlove) -- an UNDERTALE battle framework developed by me
+- [DESOLATION](https://gamejolt.com/games/desonee/907634?feed_last_id=%7B%22ver%22:%221%22,%22pos%22:%221719727571.368%22%7D) -- a fangame by sulfuri <br>
+- [UNDERLÖVE](https://github.com/bradensMG/underlove) -- an UNDERTALE battle framework developed by me
 
 ## Social links
-[Bluesky](https://bradensmg.bsky.social) -- I post stuff about my programming projects on here </br>
-[YouTube](https://youtube.com/@bradensmediocregames) -- I post animations and music on here
+If you'd like to see more stuff from me, I have a YouTube account and a Bluesky account you could check out: </br>
+- [Bluesky](https://bradensmg.bsky.social) -- I post stuff about my programming projects on here </br>
+- [YouTube](https://youtube.com/@bradensmediocregames) -- I post animations and music on here
