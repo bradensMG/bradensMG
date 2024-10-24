@@ -2,7 +2,7 @@
 
 ## About me
 I'm Braden, and I like making games with LÖVE. I got into text-based programming when I was 13, but it took me a bit to know how to make use of the skill </br>
-- My dominant language is Lua, but I know a little Python and hope to learn Javascript and some variant of C
+- My dominant language is Lua, but I know a little Python and hope to learn JavaScript and some variant of C
 - I like making music and art </br>
 
 ## Projects
