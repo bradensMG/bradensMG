@@ -15,4 +15,4 @@ I'm not working on a lot right now, but here are some I'm publicly working on: <
 If you'd like to see more stuff from me, I have a YouTube account and a Bluesky account you could check out: </br>
 - [Bluesky](https://bradensmg.bsky.social) -- I post stuff about my programming projects on here. </br>
 - [YouTube](https://youtube.com/@bradensmediocregames) -- I post animations and music on here. </br>
-Thanks for checking out me out, and I hope that you enjoy the stuff I make! :-)
+<p> Thanks for checking out me out, and I hope that you enjoy the stuff I make! :-) </p>
